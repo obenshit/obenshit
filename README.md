@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 I'm Ori Ben Shitrit!  
 
-<!--
-**obenshit/obenshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+♾️ **System Administrator | Linux Admin**  
 
-Here are some ideas to get you started:
+🔗 **LinkedIn**: [linkedin.com/in/obenshit](www.linkedin.com/in/ori-ben-shitrit-obs)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 **Skills & Technologies**  
+
+### **DevOps Tools**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### **Cloud Platforms**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)  
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
+
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📬 **Contact Me**  
+- 📧 Email: [benshitritori@gmail.com](mailto:benshitritori@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/obenshit](www.linkedin.com/in/ori-ben-shitrit-obs)  
