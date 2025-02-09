@@ -2,7 +2,7 @@
 
 ♾️ **System Administrator | Linux Admin**  
 
-🔗 **LinkedIn**: [linkedin.com/in/obenshit](www.linkedin.com/in/ori-ben-shitrit-obs)  
+🔗 **LinkedIn**: [www.linkedin.com/in/ori-ben-shitrit-obs](www.linkedin.com/in/ori-ben-shitrit-obs)  
 
 ---
 
@@ -29,4 +29,4 @@
 
 ## 📬 **Contact Me**  
 - 📧 Email: [benshitritori@gmail.com](mailto:benshitritori@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/obenshit](www.linkedin.com/in/ori-ben-shitrit-obs)  
+- 🔗 LinkedIn: [www.linkedin.com/in/ori-ben-shitrit-obs](www.linkedin.com/in/ori-ben-shitrit-obs)  
